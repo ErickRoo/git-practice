@@ -1,0 +1,3 @@
+Name: Erick
+Age: 29
+Favorite Color: blue
